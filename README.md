@@ -1,5 +1,5 @@
 
-### Olá eu sou o João Victor Bernardes Santos ✌️
+### Olá eu sou o João Victor Bernardes Santos ✌
 
 <div align="center">
   <a href="https://github.com/HyathoZ">
