@@ -1,8 +1,8 @@
-<img align="right" height="150" src="https://media1.tenor.com/m/hHO9MW5-yw8AAAAd/jjk-jujutsu-kaisen.gif"  />
+<h2 align="left">Hi 👋! My name is João Victor Bernardes Santos and I'm a Estudent, from Brazil</h2>
 
 ###
 
-<h2 align="left">Hi 👋! My name is João Victor Bernardes Santos and I'm a Estudent, from Brazil</h2>
+<img align="right" height="150" src="https://media1.tenor.com/m/hHO9MW5-yw8AAAAd/jjk-jujutsu-kaisen.gif"  />
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -39,12 +39,14 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HyathoZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HyathoZ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HyathoZ/HyathoZ/output/pacman-contribution-graph-dark.svg">
